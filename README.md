@@ -1,1 +1,1 @@
-# voltasafe-profile-service
+# profile service
